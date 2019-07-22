@@ -1,0 +1,87 @@
+xianyao:
+    profile: "I have recently finished my MSc studies at ETH Zurich in Computer science and will soon continue as a joint PhD student with the Computer Graphics Lab (CGL) at ETH and Disney Research|Studios (DRS), advised by Prof. Markus Gross and Dr. Marios Papas. I am interested in rendering techniques with path tracing and the application of machine learning techniques for better and faster rendering. "
+    education:
+        - time:             "2019.08 - present"
+          location:         "ETH Zurich and Disney Research|Studios, Zurich, Switzerland"
+          description:      "Joint PhD student in Computer Science"
+        - time:             "2017.09 - 2019.07"
+          location:         "ETH Zurich, Zurich, Switzerland"
+          description:      "MSc in Computer Science (with distinction)"
+        - time:             "2013.09 - 2017.07"
+          location:         "Peking University, Beijing, China"
+          description:      "BSc in Intelligence Science and Technology (with distinction)"
+    skills:
+        - "Proficient: python, C/C++, MATLAB"
+        - "Toolboxes: TensorFlow, OpenCV, Torch, CGAL"
+        - "Familiar: LaTeX, HTML, JavaScript, CUDA C/C++"
+        - "Languages: English (professional), Mandarin Chinese (native)"
+    employment:
+        - time:             "2018.04 - 2018.09"
+          location:         "Zurich"
+          company:          "Disney Research"
+          position:         "Research Intern"
+          responsibilities:
+            - "Implementation of deep-learning-based denoising algorithm of Monte Carlo renders"
+            - "Generation of datasets"
+            - "Training and testing different network structures"
+    academic:
+        - time:             "2018.11 - 2019.05"
+          laboratory:       "Computer Graphics Lab, ETH Zurich"
+          position:         "Master Thesis"
+          advisor:          "Dr. Marios Papas, Thomas Mueller, Thijs Vogels"
+          responsibilities: 
+            - "Design and Implementation of an algorithm to filter raw radiance samples in scene space using neural networks"
+            - "Exploration of appropriate network architecture"
+        - time:             "2016.11 - 2017.06"
+          laboratory:       "Key Laboratory of Machine Perception (MoE), Peking University"
+          position:         "Bachelor Thesis"
+          advisor:          "Prof. Zhouchen Lin"
+          responsibilities: 
+            - "Implementation of an algorithm to locate multiple matches of a template in a single target image"
+            - "Combination of several previous methods to reach high accuracy and speed"
+        - time:             "2016.09 - 2017.03"
+          laboratory:       "Key Laboratory of Machine Perception (MoE), Peking University"
+          position:         "Research Assistant"
+          advisor:          "Prof. Zhihong Deng"
+          responsibilities: 
+            - "Design of a Destroyer-Versus-Discriminator model to detect adversarial examples"
+            - "Cooperation with Haokun Liu"
+        - time:             "2015.12 - 2016.11"
+          laboratory:       " National Engineering Laboratory for Video Technology, Peking University"
+          position:         "Research Assistant"
+          advisor:          "Prof. Yizhou Wang"
+          responsibilities: 
+            - "Application of generative adversarial networks to video inpainting, achieving plausible results"
+            - "Collection of training and testing clips from news program"
+    teaching:
+        - time:             "2018.09 - 2019.01"
+          position:         "Teaching Assistant"
+          institution:      "Department of Computer Science, ETH Zurich"
+          course:           "Computer Graphics"
+          instructor:       "Dr. Jan Novak, Prof. Markus Gross"
+          responsibilities:
+            - "Master-level course of computer graphics, focusing on (physically-based) rendering"
+        - time:             "2016.09 - 2017.01"
+          position:         "Teaching Assistant"
+          institution:      "School of EECS, Peking University"
+          course:           "Introduction to Computation (B)"
+          instructor:       "Qinjian Zhang"
+          responsibilities:
+            - "Introductory course of C programming and algorithms for undergraduates"
+    projects:
+        - time:             "2017.05 - 2017.08"
+          team:             "Individual"
+          title:            "Game Recognition of Go"
+          technologies:     "C++, OpenCV"
+          website:          "#project-heading"
+          responsibilities:
+            - "Applying image processing algorithms to the recognition of Go game in an image."
+            #- "Algorithms: Hough transform, RANSAC"
+        - time:             "2016.09 - 2017.01"
+          team:             "Team of 3 (leader)"
+          title:            "High-Quality Real-Time Video Inpainting with PixMix</a>"
+          technologies:     "MATLAB, C++"
+          website:          "https://github.com/MKimiSH/PixMix-inpainting"
+          responsibilities:
+            - "Re-implementation of the TVCV'14 paper on video and image inpainting"
+            - "Achieved good inpainting speed and result on single image"

@@ -1,0 +1,139 @@
+---
+layout:    about
+permalink: "/cv"
+author:    xianyao
+keywords:  resume cv
+title:     Curriculum Vitae - Xianyao Zhang
+menutitle: CV
+weight:    70
+excerpt:   This page contains the curriculum vitae (CV) of the author.
+---
+{% assign cv = site.data.cv[page.author] %}
+
+<div class="md-card no-border">
+    <p>{{cv.profile}}</p>
+    <p><a href="assets/CV_Xianyao_Zhang.pdf">PDF version</a></p>
+</div>
+
+<div class="md-card shadow education">
+    <div class="title icon-library">
+        <h2>Education</h2>
+    </div>
+    {% for entry in cv.education %}   
+    <dl>
+        <dt class="time">{{entry.time}}</dt>
+        <dd>
+            <h3>{{entry.location}}</h3>
+            <p>{{entry.description}}</p>
+        </dd>
+    </dl>
+    {% endfor %}
+</div>
+
+<div class="md-card shadow">
+    <div class="title icon-stats-bars">
+        <h2>Skills</h2>
+    </div>
+    <div class="content">
+        <ul>
+            {% for skill in cv.skills %}
+            <li>{{ skill }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+
+<h2 class="employment-heading">Professional Experience</h2>
+
+<div class="timeline-container">
+    {% for employment in cv.employment %}
+    <div class="timeline-block">
+        <div class="marker"></div>
+        <div class="time">{{employment.time}}</div>
+        <div class="timeline-content">
+            <div class="time">{{employment.time}}</div>
+            <h3>{{employment.position}}</h3>
+            <span>{{employment.company}} ({{employment.location}})</span>
+            <ul>
+                {% for responsibility in employment.responsibilities %}
+                <li>{{responsibility}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<h2 class="academic-heading">Academic Experience</h2>
+
+<div class="timeline-container">
+    {% for academic in cv.academic %}
+    <div class="timeline-block">
+        <div class="marker"></div>
+        <div class="time">{{academic.time}}</div>
+        <div class="timeline-content">
+            <div class="time">{{academic.time}}</div>
+            <h3>{{academic.position}}</h3>
+            <span>{{academic.laboratory}}</span></br>
+            <span>Supervisor: {{academic.advisor}}</span>
+            <ul>
+                {% for responsibility in academic.responsibilities %}
+                <li>{{responsibility}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<h2 class="teaching-heading">Teaching Experience</h2>
+
+<div class="timeline-container">
+    {% for teaching in cv.teaching %}
+    <div class="timeline-block">
+        <div class="marker"></div>
+        <div class="time">{{teaching.time}}</div>
+        <div class="timeline-content">
+            <div class="time">{{teaching.time}}</div>
+            <h3>{{teaching.position}}</h3></br>
+            <h4>{{teaching.course}}</h4>
+            <span>{{teaching.institution}}</span></br>
+            <span>Instructor(s): {{teaching.instructor}}</span>
+            <ul>
+                {% for responsibility in teaching.responsibilities %}
+                <li>{{responsibility}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<a name="project-heading/"></a> 
+<h2 class="project-heading">Project History</h2>
+
+{% for project in cv.projects %}
+<div class="md-card shadow project">
+    <div class="meta">
+        <div class="team">{{project.team}}</div>
+        <div class="time">{{project.time}}</div>
+    </div>
+    <div class="content">
+        <h2><a href={{project.website}}/>{{project.title}}</a></h2>
+        <ul>
+            {% for responsibility in project.responsibilities %}
+            <li>{{responsibility}}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="footer">
+        <ul>
+            {% assign technologies = project.technologies | split: ',' %}
+            {% for technology in technologies %}
+            <li> {{ technology }}</li>
+            {% endfor %}
+        </ul>
+        <span class="icon-briefcase"></span>
+    </div>
+</div>
+{% endfor %}
