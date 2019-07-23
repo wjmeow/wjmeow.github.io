@@ -1,5 +1,5 @@
-xianyao:
-    profile: "I have recently finished my MSc studies at ETH Zurich in Computer science and will soon continue as a joint PhD student with the Computer Graphics Lab (CGL) at ETH and Disney Research|Studios (DRS), advised by Prof. Markus Gross and Dr. Marios Papas. I am interested in rendering techniques with path tracing and the application of machine learning techniques for better and faster rendering. "
+Wenjun Meng:
+    profile: "I am currently a third-year PhD student at Peking University in Environmental Geography. I am interested in air quality modeling, health impact and policy analysis. "
     education:
         - time:             "2019.08 - present"
           location:         "ETH Zurich and Disney Research|Studios, Zurich, Switzerland"
@@ -11,9 +11,8 @@ xianyao:
           location:         "Peking University, Beijing, China"
           description:      "BSc in Intelligence Science and Technology (with distinction)"
     skills:
-        - "Proficient: python, C/C++, MATLAB"
-        - "Toolboxes: TensorFlow, OpenCV, Torch, CGAL"
-        - "Familiar: LaTeX, HTML, JavaScript, CUDA C/C++"
+        - "Proficient: MATLAB, EXCEL"
+        - "Familiar: LaTeX, python"
         - "Languages: English (professional), Mandarin Chinese (native)"
     employment:
         - time:             "2018.04 - 2018.09"
