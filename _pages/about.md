@@ -1,20 +1,20 @@
 ---
 layout:    about
 permalink: "/about"
-author:    mkimish
-keywords:  about person demo example
-title:     About - MKimiSH
+author:   Kimi
+keywords:  about person 
+title:     About - Kimi
 menutitle: About
 weight:    90
 excerpt:   This page contains a more casual description of the author.
 --- 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
-I have recently finished my master studies in CS at ETH Zurich. In fact, I think Informatik sounds better than Computer Science. I have been working on the restoration of both synthetic and real images, and my current focus is on the synthetic side, more specifically, how to reconstruct rendered images from a handful of light transport samples. 
+I am currently a third-year PhD student in Peking University. I have been working on the environment and health impact on solid fuel use in China and some relative policy evaluation. 
 
-A lot of my spare time is spent with my girlfriend (manually showing a heart :P) who also gives a lot of helpful advice on this website. Besides, I play 2 games: [osu!](https://osu.ppy.sh/home) and [minesweeper](http://www.minesweeper.info/worldranking.html). Therefore, I can say I am somehow good at controlling the mouse. 
+I love travelling around the world. So far, I've been to more than 20 provinces in China and more than 25 states & cities outside of China. I also like playing games: board games and minesweeper.
 
-Feel free to drop an [email](mailto:xyzhang.qd@gmail.com) if you are interested in what I do or play!
+Feel free to drop an [email](mailto:wjmeng@pku.edu.cn) if you are interested in what I do or play!
 
 This website is built out of the Jekyll theme [`jekyllDecent`](https://github.com/jwillmer/jekyllDecent).
 

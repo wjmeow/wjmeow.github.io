@@ -1,4 +1,4 @@
-Wenjun Meng:
+wenjun:
     profile: "I am currently a third-year PhD student at Peking University in Environmental Geography. I am interested in air quality modeling, health impact and policy analysis. "
     education:
         - time:             "2019.08 - present"
@@ -14,15 +14,6 @@ Wenjun Meng:
         - "Proficient: MATLAB, EXCEL"
         - "Familiar: LaTeX, python"
         - "Languages: English (professional), Mandarin Chinese (native)"
-    employment:
-        - time:             "2018.04 - 2018.09"
-          location:         "Zurich"
-          company:          "Disney Research"
-          position:         "Research Intern"
-          responsibilities:
-            - "Implementation of deep-learning-based denoising algorithm of Monte Carlo renders"
-            - "Generation of datasets"
-            - "Training and testing different network structures"
     academic:
         - time:             "2018.11 - 2019.05"
           laboratory:       "Computer Graphics Lab, ETH Zurich"
@@ -55,18 +46,11 @@ Wenjun Meng:
     teaching:
         - time:             "2018.09 - 2019.01"
           position:         "Teaching Assistant"
-          institution:      "Department of Computer Science, ETH Zurich"
-          course:           "Computer Graphics"
-          instructor:       "Dr. Jan Novak, Prof. Markus Gross"
+          institution:      "College of Urban and Environmental Science, Peking University"
+          course:           "Applied Statistics"
+          instructor:       "Shu Tao"
           responsibilities:
-            - "Master-level course of computer graphics, focusing on (physically-based) rendering"
-        - time:             "2016.09 - 2017.01"
-          position:         "Teaching Assistant"
-          institution:      "School of EECS, Peking University"
-          course:           "Introduction to Computation (B)"
-          instructor:       "Qinjian Zhang"
-          responsibilities:
-            - "Introductory course of C programming and algorithms for undergraduates"
+            - "Tutorials of software usage and exercise sessions"
     projects:
         - time:             "2017.05 - 2017.08"
           team:             "Individual"
