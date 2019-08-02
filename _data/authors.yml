@@ -3,7 +3,7 @@ default:                                                      # Fallback if noth
   identifier:   Kimi
   name:         "Wenjun Meng"                                 # used to display author name
   cover:        /assets/mountain-alternative-cover.jpg        # OPTIONAL: defines location of cover image in about page
-  picture:      /assets/mwj-cv.jpg                            # OPTIONAL: author picture
+  picture:      /assets/mwj-cv.png                            # OPTIONAL: author picture
   bio:          How to see better?                            # OPTIONAL: text below author name in posts
   location:     China                                   # OPTIONAL: used to display location of the author
   website:                          						  # OPTIONAL: link to the author of a post
@@ -41,7 +41,7 @@ wenjun:
   identifier:   wenjun
   name:         "Wenjun Meng"
   cover:        /assets/mountain-alternative-cover.jpg  
-  picture:      /assets/mwj-cv.jpg
+  picture:      /assets/mwj-cv.png
   bio:          How to see better?
   location:     China
   website:      wjmeow.github.io
