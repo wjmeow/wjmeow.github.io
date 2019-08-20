@@ -9,23 +9,23 @@ wenjun:
           description:      "BSc in Environmental Science"
     skills:
         - "Proficient: MATLAB, EXCEL"
-        - "Familiar: LaTeX, python"
+        - "Familiar: LaTeX, python, HTML, R"
         - "Languages: English (professional), Mandarin Chinese (native), Japanese (beginner)"
     academic:
-        - time:             "2016.11 - 2017.06"
+        - time:             "2016.09 - 2017.06"
           laboratory:       "Laboratory for Earth Surface Processes, Peking University"
           position:         "Bachelor Thesis"
           advisor:          "Prof. Shu Tao"
           responsibilities: 
             - "Stove improvement and effects on environment and health in rural China"
             - "Quantification of four stove types used by residents in rural China and theirs impacts on pollution and human health"
-        - time:             "2015.08 - 2016.01"
+        - time:             "2016.08 - 2017.01"
           laboratory:       "School of Civil and Environmental Engineering, Georgia Institute of Technology"
           position:         "Visiting Scholar"
           advisor:          "Prof. Armistead G. Russell"
           responsibilities: 
             - "Learning about the usage of CMAQ model"
-        - time:             "2015.03 - 2016.09"
+        - time:             "2015.01 - 2017.01"
           laboratory:       "College of Urban and Environmental Sciences, Peking University"
           position:         "Research Assistant"
           advisor:          "Prof. Shu Tao"
@@ -44,8 +44,9 @@ wenjun:
           title:            ""
           website:          "#project-heading"
           responsibilities:
+            - "Meng, W.;  Zhong, Q.;  Chen, Y.;  Shen, H.;  Yun, X.;  Smith, K. R.;  Li, B.;  Liu, J.;  Wang, X.;  Ma, J.;  Cheng, H.;  Zeng, E. Y.;  Guan, D.;  Russell, A. G.; Tao, S., Energy and air pollution benefits of household fuel policies in northern China. Proceedings of the National Academy of Sciences 2019, 201904182."
             - "Shen, G.;  Ru, M.;  Du, W.;  Zhu, X.;  Zhong, Q.;  Chen, Y.;  Shen, H.;  Yun, X.;  Meng, W.;  Liu, J.;  Cheng, H.;  Hu, J.;  Guan, D.; Tao, S., Impacts of air pollutants from rural Chinese households under the rapid residential energy transition. Nature Communications 2019, 10 (1), 3405."
-            - "Zhu, X.;  Yun, X.;  Meng, W.;  Xu, H.;  Du, W.;  Shen, G.;  Cheng, H.;  Ma, J.; Tao, S., Stacked Use and Transition Trends of Rural Household Energy in Mainland China. Environ Sci Technol 2019, 53 (1), 521-529."
+            - "Zhu, X.;  Yun, X.;  Meng, W.;  Xu, H.;  Du, W.;  Shen, G.;  Cheng, H.;  Ma, J.; Tao, S., Stacked Use and Transition Trends of Rural Household Energy in Mainland China. Environ Sci Technology 2019, 53 (1), 521-529."
             - "Zhong, Q.;  Ma, J.;  Shen, G.;  Shen, H.;  Zhu, X.;  Yun, X.;  Meng, W.;  Cheng, H.;  Liu, J.;  Li, B.;  Wang, X.;  Zeng, E. Y.;  Guan, D.; Tao, S., Distinguishing Emission-Associated Ambient Air PM2.5 Concentrations and Meteorological Factor-Induced Fluctuations. Environmental Science & Technology 2018, 52 (18), 10416-10425."
             - "Tao, S.;  Ru, M. Y.;  Du, W.;  Zhu, X.;  Zhong, Q. R.;  Li, B. G.;  Shen, G. F.;  Pan, X. L.;  Meng, W. J.;  Chen, Y. L.;  Shen, H. Z.;  Lin, N.;  Su, S.;  Zhuo, S. J.;  Huang, T. B.;  Xu, Y.;  Yun, X.;  Liu, J. F.;  Wang, X. L.;  Liu, W. X.;  Cheng, H. F.; Zhu, D. Q., Quantifying the rural residential energy transition in China from 1992 to 2012 through a representative national survey. Nature Energy 2018, 3 (7), 567-573."
             - "Zhang, Y.;  Kang, S.;  Sprenger, M.;  Cong, Z.;  Gao, T.;  Li, C.;  Tao, S.;  Li, X.;  Zhong, X.;  Xu, M.;  Meng, W.;  Neupane, B.;  Qin, X.; Sillanpää, M., Black carbon and mineral dust in snow cover on the Tibetan Plateau. The Cryosphere 2018, 12 (2), 413-431."
