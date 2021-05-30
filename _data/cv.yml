@@ -1,5 +1,5 @@
 wenjun:
-    profile: "I am currently a third-year PhD student at Peking University in Environmental Geography. I am interested in air quality modeling, health impact and policy analysis. "
+    profile: "I am currently a fourth-year PhD student at Peking University in Environmental Geography. I am interested in air quality modeling, health impact and policy analysis. "
     education:
         - time:             "2017.09 - present"
           location:         "College of Urban and Environmental Sciences, Peking University, Beijing, China"
@@ -9,7 +9,7 @@ wenjun:
           description:      "BSc in Environmental Science"
     skills:
         - "Proficient: MATLAB, EXCEL"
-        - "Familiar: LaTeX, python, HTML, R"
+        - "Familiar: LaTeX, python"
         - "Languages: English (professional), Mandarin Chinese (native), Japanese (beginner)"
     academic:
         - time:             "2016.09 - 2017.06"
@@ -44,11 +44,13 @@ wenjun:
           title:            ""
           website:          "#project-heading"
           responsibilities:
+            - "Meng, W.;  Shen, H.;  Yun, X.;  Chen, Y.;  Zhong, Q.;  Zhang, W.;  Yu, X.;  Xu, H.;  Ren, Y. a.;  Shen, G.;  Ma, J.;  Liu, J.;  Cheng, H.;  Wang, X.;  Zhu, D.; Tao, S., Differentiated-Rate Clean Heating Strategy with Superior Environmental and Health Benefits in Northern China. Environmental Science & Technology 2020, 54 (21), 13458-13466."
             - "Meng, W.;  Zhong, Q.;  Chen, Y.;  Shen, H.;  Yun, X.;  Smith, K. R.;  Li, B.;  Liu, J.;  Wang, X.;  Ma, J.;  Cheng, H.;  Zeng, E. Y.;  Guan, D.;  Russell, A. G.; Tao, S., Energy and air pollution benefits of household fuel policies in northern China. Proceedings of the National Academy of Sciences 2019, 201904182."
-            - "Shen, G.;  Ru, M.;  Du, W.;  Zhu, X.;  Zhong, Q.;  Chen, Y.;  Shen, H.;  Yun, X.;  Meng, W.;  Liu, J.;  Cheng, H.;  Hu, J.;  Guan, D.; Tao, S., Impacts of air pollutants from rural Chinese households under the rapid residential energy transition. Nature Communications 2019, 10 (1), 3405."
-            - "Zhu, X.;  Yun, X.;  Meng, W.;  Xu, H.;  Du, W.;  Shen, G.;  Cheng, H.;  Ma, J.; Tao, S., Stacked Use and Transition Trends of Rural Household Energy in Mainland China. Environ Sci Technology 2019, 53 (1), 521-529."
-            - "Zhong, Q.;  Ma, J.;  Shen, G.;  Shen, H.;  Zhu, X.;  Yun, X.;  Meng, W.;  Cheng, H.;  Liu, J.;  Li, B.;  Wang, X.;  Zeng, E. Y.;  Guan, D.; Tao, S., Distinguishing Emission-Associated Ambient Air PM2.5 Concentrations and Meteorological Factor-Induced Fluctuations. Environmental Science & Technology 2018, 52 (18), 10416-10425."
-            - "Tao, S.;  Ru, M. Y.;  Du, W.;  Zhu, X.;  Zhong, Q. R.;  Li, B. G.;  Shen, G. F.;  Pan, X. L.;  Meng, W. J.;  Chen, Y. L.;  Shen, H. Z.;  Lin, N.;  Su, S.;  Zhuo, S. J.;  Huang, T. B.;  Xu, Y.;  Yun, X.;  Liu, J. F.;  Wang, X. L.;  Liu, W. X.;  Cheng, H. F.; Zhu, D. Q., Quantifying the rural residential energy transition in China from 1992 to 2012 through a representative national survey. Nature Energy 2018, 3 (7), 567-573."
-            - "Zhang, Y.;  Kang, S.;  Sprenger, M.;  Cong, Z.;  Gao, T.;  Li, C.;  Tao, S.;  Li, X.;  Zhong, X.;  Xu, M.;  Meng, W.;  Neupane, B.;  Qin, X.; Sillanpää, M., Black carbon and mineral dust in snow cover on the Tibetan Plateau. The Cryosphere 2018, 12 (2), 413-431."
-            - "Huang, T.;  Zhu, X.;  Zhong, Q.;  Yun, X.;  Meng, W.;  Li, B.;  Ma, J.;  Zeng, E. Y.; Tao, S., Spatial and Temporal Trends in Global Emissions of Nitrogen Oxides from 1960 to 2014. Environmental Science & Technology 2017, 51 (14), 7992-8000."
             - "Meng, W.;  Zhong, Q.;  Yun, X.;  Zhu, X.;  Huang, T.;  Shen, H.;  Chen, Y.;  Chen, H.;  Zhou, F.;  Liu, J.;  Wang, X.;  Zeng, E. Y.; Tao, S., Improvement of a Global High-Resolution Ammonia Emission Inventory for Combustion and Industrial Sources with New Data from the Residential and Transportation Sectors. Environmental Science & Technology 2017, 51 (5), 2821-2829."
+            - "Zhong, Q.;  Tao, S.;  Ma, J.;  Liu, J.;  Shen, H.;  Shen, G.;  Guan, D.;  Yun, X.;  Meng, W.;  Yu, X.;  Cheng, H.;  Zhu, D.;  Wan, Y.; Hu, J., PM2.5 reductions in Chinese cities from 2013 to 2019 remain significant despite the inflating effects of meteorological conditions. One Earth 2021, 4 (3), 448-458."
+            - "Yun, X.;  Meng, W.;  Xu, H.;  Zhang, W.;  Yu, X.;  Shen, H.;  Chen, Y.;  Shen, G.;  Ma, J.;  Li, B.;  Cheng, H.;  Hu, J.; Tao, S., Coal Is Dirty, but Where It Is Burned Especially Matters. Environmental Science & Technology 2021."
+            - "Shen, H.;  Shen, G.;  Chen, Y.;  Russell, A. G.;  Hu, Y.;  Duan, X.;  Meng, W.;  Xu, Y.;  Yun, X.;  Lyu, B.;  Zhao, S.;  Hakami, A.;  Guo, J.;  Tao, S.; Smith, K. R., Increased air pollution exposure among the Chinese population during the national quarantine in 2020. Nature Human Behaviour 2021."
+            - "Yun, X.;  Shen, G.;  Shen, H.;  Meng, W.;  Chen, Y.;  Xu, H.;  Ren, Y.;  Zhong, Q.;  Du, W.;  Ma, J.;  Cheng, H.;  Wang, X.;  Liu, J.;  Wang, X.;  Li, B.;  Hu, J.;  Wan, Y.; Tao, S., Residential solid fuel emissions contribute significantly to air pollution and associated health impacts in China. Science Advances 2020, 6 (44), eaba7621."
+            - "Shen, G.;  Ru, M.;  Du, W.;  Zhu, X.;  Zhong, Q.;  Chen, Y.;  Shen, H.;  Yun, X.;  Meng, W.;  Liu, J.;  Cheng, H.;  Hu, J.;  Guan, D.; Tao, S., Impacts of air pollutants from rural Chinese households under the rapid residential energy transition. Nature Communications 2019, 10 (1), 3405."
+            - "Tao, S.;  Ru, M. Y.;  Du, W.;  Zhu, X.;  Zhong, Q. R.;  Li, B. G.;  Shen, G. F.;  Pan, X. L.;  Meng, W. J.;  Chen, Y. L.;  Shen, H. Z.;  Lin, N.;  Su, S.;  Zhuo, S. J.;  Huang, T. B.;  Xu, Y.;  Yun, X.;  Liu, J. F.;  Wang, X. L.;  Liu, W. X.;  Cheng, H. F.; Zhu, D. Q., Quantifying the rural residential energy transition in China from 1992 to 2012 through a representative national survey. Nature Energy 2018, 3 (7), 567-573."
+
